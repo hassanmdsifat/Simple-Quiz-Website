@@ -1,0 +1,46 @@
+body
+{
+    background: rgb(223, 237, 199);
+    font-family: Arial, Helvetica, sans-serif;
+}
+input
+{
+    width:120%;
+    margin:8px 0px;
+    padding:12px 20px;
+    box-sizing:border-box;
+}
+.login{
+    background-color:whitesmoke;
+    margin:auto;
+    margin-top:100px;
+    padding:20px;
+    height: 400px;
+    width:500px;
+}
+
+#inv
+{
+    font-size:12px;
+    color:red;
+}
+#Logbtn
+{
+    width:120%;
+    border-radius:4px;
+    border:none;
+    color:white;
+    font-size:16px;
+    text-align:center;
+    background:rgb(66, 134, 244);
+}
+#Logbtn:hover
+{
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgb(0,0,0,0.2);
+}
+#Logbtn:active
+{
+    transform: translateY(-1px);
+    box-shadow: 0 4px 1px rgb(0,0,0,0.2);
+}

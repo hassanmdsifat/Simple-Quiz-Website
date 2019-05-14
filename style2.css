@@ -1,0 +1,40 @@
+body
+{
+    background: rgb(223, 237, 199);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.question{
+    margin:100px;
+    background:white;
+    padding:10px;
+
+}
+#ques{
+    width:60%;
+    margin:8px 0px;
+    padding:12px 20px;
+    box-sizing:border-box;
+}
+#opt{
+    width:60%;
+    margin:8px 0px;
+    padding:8px 20px;
+    box-sizing:border-box;
+
+}
+#inv
+{
+    font-size:12px;
+    color:red;
+}
+#sub
+{
+    background:green; 
+    border: none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

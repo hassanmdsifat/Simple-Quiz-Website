@@ -1,0 +1,48 @@
+Whats the national animal of Bangladesh?
+Tiger
+Royal Bengal Tiger
+Cow
+Dog
+Royal Bengal Tiger
+Whats the national fruit of Bangladesh?
+Mango
+Jack-fruit
+Orange
+Pineapple
+Jack-fruit
+Who inveneted computer?
+Konrad Zuse
+Charles Babbage
+Leonardo Di Vinci
+Alan Turing
+Charles Babbage
+Which tag is use for bold?
+ul
+li
+strong
+none
+strong
+Who invented C Programming?
+Dennis Ritchie
+Alan Turing
+Charles Babbage
+None
+Dennis Ritchie
+Which TimeComplexity is more efficient?
+O(n^2)
+O(n^3)
+O(n)
+O(log n)
+O(log n)
+What is the complexity of Binary Search?
+O(n^2)
+O(n*m)
+O(nlog n)
+O(log n)
+O(nlog n)
+whats your university name?
+ai
+Aiub
+Iub
+NSU
+Aiub
